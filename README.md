@@ -24,7 +24,7 @@ SSHFS-Win is a minimal port of [SSHFS](https://github.com/libfuse/sshfs) to Wind
 
 ## How to use
 
-Once you have installed WinFsp and SSHFS-Win you can start an SSHFS session to a remote computer using the following syntax:
+Once you have installed WinFsp and SSHFS-Win you can start an SSHFS session to a remote computer using the following syntax (you can just type it in the address bar of the windows explorer):
 
     \\sshfs\[locuser=]user@host[!port][\path]
 
